@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "66fe800f363bf30d7719c0e5"
+  },
+  "name": "achu baiju",
+  "userId": {
+    "$oid": "66f79f2554d44a2f6f1b2ce6"
+  },
+  "phone": 8946456460,
+  "pincode": 685515,
+  "locality": "nariyampara",
+  "housename": "payikattu house",
+  "district": "idukki",
+  "state": "kerala",
+  "landMark": "m m h s  school",
+  "altPhone": null,
+  "email": "achukappithan4236@gmail.com",
+  "addressType": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fea32ba120e5fc92b996b8"
+  },
+  "name": "sowravu suresh",
+  "userId": {
+    "$oid": "66f79f2554d44a2f6f1b2ce6"
+  },
+  "phone": 7465445451,
+  "pincode": 685515,
+  "locality": "kuthalampara",
+  "housename": "mathiyathu",
+  "district": "idukki",
+  "state": "Kerala",
+  "landMark": "mini  charch",
+  "altPhone": 4587269821,
+  "email": "achukappithan4236@gmail.com",
+  "addressType": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673ca6e223424842cf0f3b33"
+  },
+  "name": "achu baiju",
+  "userId": {
+    "$oid": "66f79f2554d44a2f6f1b2ce6"
+  },
+  "phone": 7034234699,
+  "pincode": 685515,
+  "locality": " vallakkadavu",
+  "housename": " kappithanveetil",
+  "district": " idukki",
+  "state": "Kerala",
+  "landMark": "",
+  "altPhone": null,
+  "email": "achukappithan4236@gmail.com",
+  "addressType": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674698a7360e676652226bca"
+  },
+  "name": "Amal shaji",
+  "userId": {
+    "$oid": "6746974a360e676652226a70"
+  },
+  "phone": 5555555555,
+  "pincode": 685515,
+  "locality": "Nariyampara",
+  "housename": "vattukalathil (h)",
+  "district": "idukki",
+  "state": "Kerala",
+  "landMark": "m m h s   nariyampara",
+  "altPhone": null,
+  "email": "amalappuamsl@gmail.com",
+  "addressType": false,
+  "__v": 0
+}]

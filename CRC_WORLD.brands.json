@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "66de779188b9a8b01f2daf18"
+  },
+  "name": "S.S",
+  "description": "Most popular brand",
+  "image": "image-1725855633619-528937240.png",
+  "createdAt": {
+    "$date": "2024-09-09T04:20:33.627Z"
+  },
+  "__v": 0,
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "66de781288b9a8b01f2daf1c"
+  },
+  "name": "G.M",
+  "description": "most popular in bat collection",
+  "image": "image-1725855762395-577456382.png",
+  "createdAt": {
+    "$date": "2024-09-09T04:22:42.396Z"
+  },
+  "__v": 0,
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "66de7d371b900972cd198b20"
+  },
+  "name": "S.G",
+  "description": "quality  gadgets provided brand",
+  "image": "image-1725857079784-182606312.png",
+  "createdAt": {
+    "$date": "2024-09-09T04:44:39.790Z"
+  },
+  "__v": 0,
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "66de813ecbe0bcdfa314f046"
+  },
+  "name": "KOOKABURRA",
+  "description": "crc assured brand",
+  "image": "image-1726205122665-222771377.png",
+  "createdAt": {
+    "$date": "2024-09-09T05:01:50.131Z"
+  },
+  "__v": 0,
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "66ec266674d595afa6bb93ec"
+  },
+  "name": "M R F",
+  "description": "top quelity bat seller brand",
+  "image": "image-1726752358793-332124844.jpeg",
+  "createdAt": {
+    "$date": "2024-09-19T13:25:58.799Z"
+  },
+  "__v": 0,
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "66ec28f174d595afa6bb93f1"
+  },
+  "name": "New Balance",
+  "description": "choose your perfect choice",
+  "image": "image-1726753009562-593555626.webp",
+  "createdAt": {
+    "$date": "2024-09-19T13:36:49.564Z"
+  },
+  "__v": 0,
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "66ec2d2774d595afa6bb9416"
+  },
+  "name": "Gray Nicollss",
+  "description": "We are providing  protective  gears and also high quality  bats",
+  "image": "image-1726754087732-154446483.png",
+  "createdAt": {
+    "$date": "2024-09-19T13:54:47.734Z"
+  },
+  "__v": 0,
+  "is_deleted": false
+}]

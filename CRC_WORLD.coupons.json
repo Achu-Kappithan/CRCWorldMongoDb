@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "672865adaf0bb8271c72f0d3"
+  },
+  "couponName": "new test coupons",
+  "couponDescription": "dskljsjfdsjfsjdjfdsjf",
+  "couponCode": "NEWCOUPONS123",
+  "couponDiscount": 20,
+  "couponStatus": true,
+  "maxAmount": 4000,
+  "minAmount": 10000,
+  "Userlimit": 5,
+  "userBy": [
+    {
+      "$oid": "66f79f2554d44a2f6f1b2ce6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-04T06:11:57.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T15:00:20.309Z"
+  },
+  "__v": 22
+},
+{
+  "_id": {
+    "$oid": "673453a9a87e7dee95972493"
+  },
+  "couponName": "new coupon",
+  "couponDescription": "aqwsdfghjzxcvbn",
+  "couponCode": "NEWCOUPON",
+  "couponDiscount": 10,
+  "couponStatus": true,
+  "maxAmount": 3000,
+  "minAmount": 10000,
+  "Userlimit": 50,
+  "userBy": [
+    {
+      "$oid": "66f79f2554d44a2f6f1b2ce6"
+    },
+    {
+      "$oid": "6746974a360e676652226a70"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T07:22:17.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T08:40:35.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dbd777bba69f018dc6e45"
+  },
+  "couponName": "new coupons",
+  "couponDescription": "new coupous  for new year specil",
+  "couponCode": "NEW8546",
+  "couponDiscount": 10,
+  "couponStatus": true,
+  "maxAmount": 5000,
+  "minAmount": 2000,
+  "Userlimit": 20,
+  "userBy": [
+    {
+      "$oid": "66f79f2554d44a2f6f1b2ce6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-11-20T10:44:07.463Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-26T05:19:00.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674555b67feb152d56d36459"
+  },
+  "couponName": "new year",
+  "couponDescription": " new year  and x mes specil",
+  "couponCode": "NEWYEAR2025",
+  "couponDiscount": 20,
+  "couponStatus": true,
+  "maxAmount": 5000,
+  "minAmount": 8000,
+  "Userlimit": 10,
+  "userBy": [],
+  "createdAt": {
+    "$date": "2024-11-26T04:59:34.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-26T04:59:34.058Z"
+  },
+  "__v": 0
+}]

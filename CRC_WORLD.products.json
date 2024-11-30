@@ -1,0 +1,841 @@
+[{
+  "_id": {
+    "$oid": "66f03c51484c4d69c6065f79"
+  },
+  "productname": "Gray Nicolls  Top Test Opener ",
+  "productdescription": "Grade 2 Bat\r\nPowercurve face\r\nIncredibly light pick-up\r\nBrand: Gray Nicolls\r\nHandle: Short Handle\r\nWeight: 2.8 – 2.10 Lbs.Oz",
+  "productimage": [
+    "productimage-1727756868033-685048846.webp",
+    "productimage-1727756868034-626392862.webp",
+    "productimage-1727756868035-606390903.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66ec2d2774d595afa6bb9416"
+  },
+  "Taxrate": 18,
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 10,
+      "Actualprice": 15000,
+      "priceafteroffer": 15000,
+      "_id": {
+        "$oid": "6732d8852bcc6d8c5c009886"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 17000,
+      "priceafteroffer": 17000,
+      "_id": {
+        "$oid": "6732d8852bcc6d8c5c009887"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 5,
+      "Actualprice": 20000,
+      "priceafteroffer": 20000,
+      "_id": {
+        "$oid": "6732d8852bcc6d8c5c009888"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-09-22T15:48:33.665Z"
+  },
+  "__v": 52
+},
+{
+  "_id": {
+    "$oid": "66f1642fd89299f2ecc3ae05"
+  },
+  "productname": "MRF Game Changer Cricket Bat",
+  "productdescription": "Made from top of the line English Willow A1+\r\nFull Profile, Amazing Ping\r\n Designed for comfort & light pick-up\r\nAs per Virat style of play.\r\nAvailable on Pre Order Only !!\r\nBrand: MRF\r\nHandle: Short Handle\r\nWeight: 2.8 – 2.10 Lbs.Oz",
+  "productimage": [
+    "productimage-1727095854993-658083653.webp",
+    "productimage-1727095854995-155514156.webp",
+    "productimage-1727095854996-200267641.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66ec266674d595afa6bb93ec"
+  },
+  "Taxrate": 18,
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 2,
+      "Actualprice": 12000,
+      "priceafteroffer": 12000,
+      "_id": {
+        "$oid": "6732d89a2bcc6d8c5c0098b9"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 15000,
+      "priceafteroffer": 15000,
+      "_id": {
+        "$oid": "6732d89a2bcc6d8c5c0098ba"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 4,
+      "Actualprice": 18000,
+      "priceafteroffer": 18000,
+      "_id": {
+        "$oid": "6732d89a2bcc6d8c5c0098bb"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-09-23T12:50:55.040Z"
+  },
+  "__v": 51
+},
+{
+  "_id": {
+    "$oid": "66f2b0bbf30270a0e92a31dd"
+  },
+  "productname": "Gray Nicolls Helmet – Players",
+  "productdescription": "An Elite grille surrounds the face and defends against short balls.\r\nA traditional helmet with a reinforced peak. Internal size adjustment system (ISA).\r\nBrand: Gray Nicolls\r\nSize: Large, Medium, X Large",
+  "productimage": [
+    "productimage-1727180987385-781402409.webp",
+    "productimage-1727180987392-270076472.png",
+    "productimage-1727180987393-948718369.png"
+  ],
+  "category": {
+    "$oid": "66ec251f74d595afa6bb93e5"
+  },
+  "brand": {
+    "$oid": "66ec2d2774d595afa6bb9416"
+  },
+  "Taxrate": 18,
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 3,
+      "Actualprice": 10000,
+      "priceafteroffer": 9000,
+      "_id": {
+        "$oid": "6732d8ad2bcc6d8c5c0098ec"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 12000,
+      "priceafteroffer": 10800,
+      "_id": {
+        "$oid": "6732d8ad2bcc6d8c5c0098ed"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 6,
+      "Actualprice": 14000,
+      "priceafteroffer": 12600,
+      "_id": {
+        "$oid": "6732d8ad2bcc6d8c5c0098ee"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-09-24T12:29:47.415Z"
+  },
+  "__v": 22,
+  "productOffer": {
+    "offerName": "gyhujioklp",
+    "offerdiscription": "new  product offer for   checking\r\n",
+    "offerDiscountPercentage": 80,
+    "offerStartDate": {
+      "$date": "2024-11-20T00:00:00.000Z"
+    },
+    "offerExpiryDate": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "offerStatus": false,
+    "_id": {
+      "$oid": "673df412dfc5e082ef7b1b0e"
+    },
+    "createdAt": {
+      "$date": "2024-11-20T14:37:06.561Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-26T04:31:17.665Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f2b1c1f30270a0e92a3202"
+  },
+  "productname": "White Cricket Ball ",
+  "productdescription": "Great quality white leather ball.\r\nGood for regular practices and drill sessions as well as games.\r\nHolds the shape for longer.",
+  "productimage": [
+    "productimage-1730447000411-467485887.webp",
+    "productimage-1729681693395-869832777.webp",
+    "productimage-1729573798088-7016424.webp"
+  ],
+  "category": {
+    "$oid": "66ec256274d595afa6bb93e8"
+  },
+  "brand": {
+    "$oid": "66de7d371b900972cd198b20"
+  },
+  "Taxrate": 18,
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 9,
+      "Actualprice": 3000,
+      "priceafteroffer": 3000,
+      "_id": {
+        "$oid": "6732d8bb2bcc6d8c5c00991f"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "6732d8bb2bcc6d8c5c009920"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "6732d8bb2bcc6d8c5c009921"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-09-24T12:34:09.857Z"
+  },
+  "__v": 7,
+  "productOffer": {
+    "offerName": "Newyear Specil",
+    "offerdiscription": "special offer for newyar",
+    "offerDiscountPercentage": 10,
+    "offerStartDate": {
+      "$date": "2024-11-26T00:00:00.000Z"
+    },
+    "offerExpiryDate": {
+      "$date": "2024-11-29T00:00:00.000Z"
+    },
+    "offerStatus": false,
+    "_id": {
+      "$oid": "674551d1224049855353d07b"
+    },
+    "createdAt": {
+      "$date": "2024-11-26T04:42:57.053Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-29T04:50:43.163Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6700ceb3d887256ecbf8e0c3"
+  },
+  "productname": "S G Batting golve",
+  "productdescription": "sg batting glove \r\ngood quelity \r\nlightwight",
+  "productimage": [
+    "productimage-1728106163870-401475687.webp",
+    "productimage-1728106163871-532478581.webp"
+  ],
+  "category": {
+    "$oid": "66ec251f74d595afa6bb93e5"
+  },
+  "brand": {
+    "$oid": "66de7d371b900972cd198b20"
+  },
+  "Taxrate": 18,
+  "rating": 0,
+  "is_deleted": true,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 10,
+      "Actualprice": 3000,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "6732d8db2bcc6d8c5c009960"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 3000,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "6732d8db2bcc6d8c5c009961"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 2,
+      "Actualprice": 5000,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "6732d8db2bcc6d8c5c009962"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-10-05T05:29:23.893Z"
+  },
+  "__v": 19
+},
+{
+  "_id": {
+    "$oid": "670236d4ca5640f2676c83d8"
+  },
+  "productname": "New Balance Heritage Batting Pads",
+  "productdescription": "NB Heritage One of the best & lightest pads available .\r\n7 Bar Modern Construction. 9 Mm Cross Link Foam Padding\r\nFront Material Imported High Grade PU Front\r\nHorizontal Bolster Litlon Foam Padded X3\r\nInsteps Litlon Padded Pu Covered",
+  "productimage": [
+    "productimage-1728198356159-922404538.webp",
+    "productimage-1728198356161-162140329.webp",
+    "productimage-1728198356161-845286741.webp"
+  ],
+  "category": {
+    "$oid": "66ec251f74d595afa6bb93e5"
+  },
+  "brand": {
+    "$oid": "66ec28f174d595afa6bb93f1"
+  },
+  "Taxrate": 18,
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 9,
+      "Actualprice": 8000,
+      "priceafteroffer": 7200,
+      "_id": {
+        "$oid": "6732d8f22bcc6d8c5c0099a1"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 8000,
+      "priceafteroffer": 7200,
+      "_id": {
+        "$oid": "6732d8f22bcc6d8c5c0099a2"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 3,
+      "Actualprice": 9000,
+      "priceafteroffer": 8100,
+      "_id": {
+        "$oid": "6732d8f22bcc6d8c5c0099a3"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-10-06T07:05:56.190Z"
+  },
+  "__v": 21
+},
+{
+  "_id": {
+    "$oid": "672aeca968c2b5380d8f2131"
+  },
+  "productname": "new  product with sample edit text",
+  "productdescription": "sample product add for  checking the  the workign",
+  "productimage": [
+    "productimage-1732600398772-641043090.webp",
+    "productimage-1730866345224-17833140.webp",
+    "productimage-1732600343588-482815368.webp",
+    "productimage-1732600343592-373488974.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66de779188b9a8b01f2daf18"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 35,
+      "Actualprice": 8000,
+      "priceafteroffer": 8000,
+      "_id": {
+        "$oid": "6745624eac7506c30fb379da"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 10000,
+      "priceafteroffer": 10000,
+      "_id": {
+        "$oid": "6745624eac7506c30fb379db"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 7,
+      "Actualprice": 12000,
+      "priceafteroffer": 12000,
+      "_id": {
+        "$oid": "6745624eac7506c30fb379dc"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-06T04:12:25.269Z"
+  },
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "672afc394a62916f540d5d85"
+  },
+  "productname": "46s3koddso;iahdosfj;a",
+  "productdescription": "oijf;osdjf;opasdjk'fpoks'pfks",
+  "productimage": [
+    "productimage-1730870329339-929534683.webp",
+    "productimage-1730870329341-683943168.webp",
+    "productimage-1730870329346-50899781.webp"
+  ],
+  "category": {
+    "$oid": "66ec256274d595afa6bb93e8"
+  },
+  "brand": {
+    "$oid": "66ec266674d595afa6bb93ec"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 3,
+      "Actualprice": 5464,
+      "priceafteroffer": 5464,
+      "_id": {
+        "$oid": "672afc394a62916f540d5d86"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "672afc394a62916f540d5d87"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "672afc394a62916f540d5d88"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-06T05:18:49.363Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67345636a87e7dee959725d6"
+  },
+  "productname": "3SDERFTGYHUJIKL",
+  "productdescription": "W3E4R5T6YH7UJIKOLGTH",
+  "productimage": [
+    "productimage-1731483190639-230984537.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66de781288b9a8b01f2daf1c"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 17,
+      "Actualprice": 1500,
+      "priceafteroffer": 1500,
+      "_id": {
+        "$oid": "673c404b871715198b27f551"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673c404b871715198b27f552"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673c404b871715198b27f553"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-13T07:33:10.654Z"
+  },
+  "__v": 16
+},
+{
+  "_id": {
+    "$oid": "673c7c101263033971286109"
+  },
+  "productname": "  nw product",
+  "productdescription": "eswedrfgthyujikderftgyhu",
+  "productimage": [
+    "productimage-1732017168525-622798140.webp",
+    "productimage-1732017168528-583010451.webp",
+    "productimage-1732017168531-483902746.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66de813ecbe0bcdfa314f046"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 15,
+      "Actualprice": 6000,
+      "priceafteroffer": 6000,
+      "_id": {
+        "$oid": "673c7c10126303397128610a"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673c7c10126303397128610b"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673c7c10126303397128610c"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-19T11:52:48.556Z"
+  },
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "673c7c471263033971286111"
+  },
+  "productname": "new test product",
+  "productdescription": "sedrftgyhjuikolxdcfvgbhnj",
+  "productimage": [
+    "productimage-1732017223619-112666601.webp",
+    "productimage-1732017223620-553076734.webp",
+    "productimage-1732017223621-831336411.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66ec266674d595afa6bb93ec"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 8,
+      "Actualprice": 14000,
+      "priceafteroffer": 14000,
+      "_id": {
+        "$oid": "673c7c471263033971286112"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673c7c471263033971286113"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673c7c471263033971286114"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-19T11:53:43.635Z"
+  },
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "673c850f23424842cf0f352d"
+  },
+  "productname": "teprodduct test implimetnation",
+  "productdescription": "3sderftgyhujiko4secrtvgyhujikm,l",
+  "productimage": [
+    "productimage-1732019471473-984364908.webp",
+    "productimage-1732019471474-483532087.webp",
+    "productimage-1732019471474-106657339.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66de813ecbe0bcdfa314f046"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 20,
+      "Actualprice": 1300,
+      "priceafteroffer": 1300,
+      "_id": {
+        "$oid": "673d7e1239cac2d8c1125de6"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673d7e1239cac2d8c1125de7"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "673d7e1239cac2d8c1125de8"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-19T12:31:11.494Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "67447df6c3b372985a823e93"
+  },
+  "productname": "sedrftgyhujikolp",
+  "productdescription": "wasedrftgyhujiko",
+  "productimage": [
+    "productimage-1732541942870-7663511.webp",
+    "productimage-1732541942872-387795195.webp",
+    "productimage-1732541942872-527916419.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66de779188b9a8b01f2daf18"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 5,
+      "Actualprice": 5100,
+      "priceafteroffer": 5100,
+      "_id": {
+        "$oid": "674480e2c3b372985a824091"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 8000,
+      "priceafteroffer": 8000,
+      "_id": {
+        "$oid": "674480e2c3b372985a824092"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 8,
+      "Actualprice": 6000,
+      "priceafteroffer": 6000,
+      "_id": {
+        "$oid": "674480e2c3b372985a824093"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-25T13:39:02.886Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "67454d256cf33c30b3bbf75e"
+  },
+  "productname": "Head prodctor  ss",
+  "productdescription": "ss top quality  head gear",
+  "productimage": [
+    "productimage-1732594981916-761388626.webp",
+    "productimage-1732595192962-939816295.png",
+    "productimage-1732595192962-545597477.png"
+  ],
+  "category": {
+    "$oid": "66ec251f74d595afa6bb93e5"
+  },
+  "brand": {
+    "$oid": "66de779188b9a8b01f2daf18"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 15,
+      "Actualprice": 4000,
+      "priceafteroffer": 3600,
+      "_id": {
+        "$oid": "67454df86cf33c30b3bbf8e7"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "67454df86cf33c30b3bbf8e8"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "67454df86cf33c30b3bbf8e9"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-26T04:23:01.936Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "67454e986cf33c30b3bbf9a7"
+  },
+  "productname": "aqswdefrgtyhujikol",
+  "productdescription": "2w3e4r5t6y7u8i9o04r5t6y7u",
+  "productimage": [
+    "productimage-1732595352423-324640054.webp",
+    "productimage-1732595352423-907263659.webp",
+    "productimage-1732595352424-836440614.webp"
+  ],
+  "category": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "brand": {
+    "$oid": "66de813ecbe0bcdfa314f046"
+  },
+  "rating": 0,
+  "is_deleted": false,
+  "sizes": [
+    {
+      "size": "small",
+      "stock": 10,
+      "Actualprice": 8000,
+      "priceafteroffer": 8000,
+      "_id": {
+        "$oid": "67454e986cf33c30b3bbf9a8"
+      }
+    },
+    {
+      "size": "Medium",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "67454e986cf33c30b3bbf9a9"
+      }
+    },
+    {
+      "size": "Large",
+      "stock": 0,
+      "Actualprice": 0,
+      "priceafteroffer": 0,
+      "_id": {
+        "$oid": "67454e986cf33c30b3bbf9aa"
+      }
+    }
+  ],
+  "dateCreated": {
+    "$date": "2024-11-26T04:29:12.434Z"
+  },
+  "__v": 2
+}]

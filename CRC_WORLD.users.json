@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "66dc2ae9a9cea99f607b39dc"
+  },
+  "firstname": "amal",
+  "lastname": "shaji",
+  "email": "amal123@gmail.com",
+  "password": "$2b$10$8vkvO2c8fqqwAABAtsR14eSIQUwXHHYf68wUcZUJ9Ip57OT.Ybfku",
+  "is_admin": 0,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f79f2554d44a2f6f1b2ce6"
+  },
+  "firstname": "Achu ",
+  "lastname": "Baiju.",
+  "email": "achukappithan4236@gmail.com",
+  "password": "$2b$10$vQqJROKRtzstlYVB1laqKOJ9ICeOJ.f2UBuyrr4pat/X2PM83j6oe",
+  "is_admin": 0,
+  "is_active": true,
+  "addressId": [
+    {
+      "$oid": "66fe800f363bf30d7719c0e5"
+    },
+    {
+      "$oid": "66fea32ba120e5fc92b996b8"
+    },
+    {
+      "$oid": "673ca6e223424842cf0f3b33"
+    }
+  ],
+  "__v": 0,
+  "pass_resettime": {
+    "$date": "2024-10-26T12:31:11.221Z"
+  },
+  "pass_resettoken": "5104eac14e90160529fb3b844a1f3d9f35e89e657c51359a998701bb9081ac07"
+},
+{
+  "_id": {
+    "$oid": "66f7f05218d811f1cd54fd99"
+  },
+  "firstname": "Admin",
+  "lastname": "crcworld",
+  "email": "admin123@crcworld.com",
+  "password": "$2b$10$9XHqx9YBElXzFzUjdE8U4e602hlBFg2AGH.UXexEgnEzQUvW/5PJ2",
+  "is_admin": 1,
+  "is_active": true,
+  "addressId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fcdfc58a0d9fb132aa82f8"
+  },
+  "firstname": "yadhu",
+  "lastname": "p s",
+  "email": "yadhu123@gmail.com",
+  "password": "$2b$10$w4ObGpdASNXjTKF2PBcTA.wCC4aZaVpwTDjLxIX.gPVMSrqitQUSO",
+  "is_admin": 0,
+  "is_active": true,
+  "addressId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fce6ec419f89eb850b3918"
+  },
+  "firstname": "sowravu",
+  "lastname": "suresh",
+  "email": "sowravuusuresh@gmail.com",
+  "password": "$2b$10$i0SXwmDlwsHfaGzDnUhwIOYbpYHSbEFMfbGqNdg74DVK3OTgvDT9G",
+  "is_admin": 0,
+  "is_active": true,
+  "addressId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67063e9b9abc5125df948ab3"
+  },
+  "firstname": "aromal",
+  "lastname": "aromal",
+  "email": "aromal123@gimail.com",
+  "password": "$2b$10$yVjRF6F1MUy.lUqftHH3BOkLcUDMISl/NgJlwT8Ez7eEMYQOx7.6q",
+  "is_admin": 0,
+  "is_active": true,
+  "addressId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6744774ac3b372985a8237d9"
+  },
+  "firstname": "SHIBIN",
+  "lastname": "SIYAD",
+  "email": "shibinsiyad.kdpm@gmail.com",
+  "password": "$2b$10$WIt.c1rCJQ44y9ssZ0wbTe//ZhYoY5EiKH2vdwi/HtiFvOHkpC3ei",
+  "is_admin": 0,
+  "is_active": true,
+  "addressId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6746974a360e676652226a70"
+  },
+  "firstname": "Amal ",
+  "lastname": "shaji",
+  "email": "amalappuamsl@gmail.com",
+  "password": "$2b$10$B4PgsZbZ.ffCTq8qE5C90ekkFQqx64RqYg5bvyEF5KKMlFg6IZFvS",
+  "is_admin": 0,
+  "is_active": true,
+  "addressId": [
+    {
+      "$oid": "674698a7360e676652226bca"
+    }
+  ],
+  "__v": 0
+}]

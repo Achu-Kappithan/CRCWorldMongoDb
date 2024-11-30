@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "66ec24d974d595afa6bb93e2"
+  },
+  "name": "Cricket Bat",
+  "discription": "Best  quality bat for  hardball and tennis balls",
+  "__v": 0,
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "66ec251f74d595afa6bb93e5"
+  },
+  "name": "Cricket  Gadgets",
+  "discription": "Best seller of providing  protecting  us",
+  "__v": 0,
+  "is_deleted": false,
+  "categoryoffer": {
+    "offerName": "newyear offer",
+    "offerdiscription": "wertyuioasdfghjklzxcvbnm,",
+    "offerDiscountPercentage": 10,
+    "offerStartDate": {
+      "$date": "2024-11-29T00:00:00.000Z"
+    },
+    "offerExpiryDate": {
+      "$date": "2024-12-02T00:00:00.000Z"
+    },
+    "offerStatus": true,
+    "_id": {
+      "$oid": "6749485d3015f195980f3b9f"
+    },
+    "createdAt": {
+      "$date": "2024-11-29T04:51:41.377Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-29T04:51:41.377Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66ec256274d595afa6bb93e8"
+  },
+  "name": "Other Equpmensts",
+  "discription": "some other equpmenst for  best practicess",
+  "__v": 0,
+  "is_deleted": false
+}]
